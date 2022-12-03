@@ -8,7 +8,7 @@ order: 4
 
 # A Running List of RF System Design Formulas
 
-# The Compelling Case for Multi-Band GNSS 
+#   The Compelling Case for Multi-Band GNSS 
 
 # Introduction to UWB: Part 1 - Overview
 
