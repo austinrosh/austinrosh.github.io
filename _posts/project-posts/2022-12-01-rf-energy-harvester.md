@@ -9,7 +9,7 @@ comments: false
 math: true
 ---
 
-This was my senior design project at Santa Clara University which was done throughout the 2020-2021 school-year at Santa Clara University. The full project report can be found from Santa Clara University Scholar Commons [here](https://scholarcommons.scu.edu/elec_senior/62/).
+This was my senior design project at Santa Clara University which was done throughout the 2020-2021 school-year at Santa Clara University. The full project report version can be found from Santa Clara University Scholar Commons [here](https://scholarcommons.scu.edu/elec_senior/62/).
 
 # Overview
 
