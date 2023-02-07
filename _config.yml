@@ -92,7 +92,7 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:              # <gh-username>/<repo>
+    repo:              # <gh-username>/<repo>s
     repo_id:
     category:
     category_id:
