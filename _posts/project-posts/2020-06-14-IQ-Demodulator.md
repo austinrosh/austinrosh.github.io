@@ -3,7 +3,7 @@ title: IQ Demodulator - Passive Circuit Design
 date: 2020-06-14 00:00:00 -10
 categories: []
 tags: []
-img_path: /assets/project-img/2020-06-14-IQ-Demodulator/block_diagram.png
+img_path: /assets/project-img/2020-06-14-IQ-Demodulator/
 toc: true
 comments: false
 math: true
