@@ -83,7 +83,7 @@ $$
 
 where $$\mathbf{\boldsymbol{\psi_n}(r')}$$ is a known basis function, and $$I_n$$ are the unknown current expansion coefficients. A reasonably complete, simple, and natural choice of basis functions are piece-wise, linear roof-top basis functions shown as:
 
-![basis_function](BFs.png){: width="500" height="4000" }
+![basis_function]basis_func.png){: width="500" height="4000" }
 _Roof-top basis function on a meshed-wire structure._
 
 The details of this basis function will be explained later during the description of implementation. For now it is important to note that they are piece-wise linear, the value at the center node is $1$, and the middle value of either side of the basis function is $0.5$.
