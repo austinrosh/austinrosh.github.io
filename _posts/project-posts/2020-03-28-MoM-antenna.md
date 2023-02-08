@@ -73,7 +73,7 @@ $$
 \mathbf{E_{sc}(r)} = -j\omega\mu\int_{\Omega'} G_0(\boldsymbol{r},\boldsymbol{r}')\mathbf{J(r')} + \frac{1}{k^2}\nabla G_0(\boldsymbol{r},\boldsymbol{r}')\nabla'\cdot\mathbf{J(r')}\mathbf{dr'} \tag{7}
 $$
 
-where $$\omega,\mu,k, G_0(\boldsymbol{r},\boldsymbol{r}')$$ are the radial frequency, magnetic permeability of free space,  wave-number, and scalar free space Green's function, respectively. Additionally, the primed coordinates represent the source locations, and operators with primes on them only act on source functions. 
+where $$\omega,\mu,k, G_0(\boldsymbol{r},\boldsymbol{r}')$$ are the radial frequency, magnetic permeability of free-space,  wave-number, and scalar free space Green's function, respectively. Additionally, the primed coordinates represent the source locations, and operators with primes on them only act on source functions. 
 
 Now that we have the form for the scattered fields, the unknown current distribution $\mathbf{J(r')}$ must be expanded into a series of known basis functions. This takes the form
 
