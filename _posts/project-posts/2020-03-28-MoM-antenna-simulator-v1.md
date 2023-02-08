@@ -10,7 +10,7 @@ math: true
 ---
 
 <!---
-\renewcommand{\mathbf{I}}{\mathbf{I}}
+\renewcommand{\mathbf{I}}{\mathbf{I_}}
 
 \newcommand{\mathbf{J(r')}}{\mathbf{J(r')}}
 \newcommand{\mathbf{R}}{\mathbf{R}}
