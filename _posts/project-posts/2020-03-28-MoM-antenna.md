@@ -9,35 +9,6 @@ comments: false
 math: true
 ---
 
-<!---
-\renewcommand{\mathbf{I}}{\mathbf{I_}}
-
-\newcommand{\mathbf{J(r')}}{\mathbf{J(r')}}
-\newcommand{\mathbf{R}}{\mathbf{R}}
-\newcommand{\boldsymbol{r}}{\boldsymbol{r}}
-\newcommand{G_0(\boldsymbol{r}_m^+,\boldsymbol{r}_m^+)}{G_0(\boldsymbol{r}_m^+,\boldsymbol{r}_m^+)}
-\newcommand{G_0(\boldsymbol{r}^+,\boldsymbol{r}^-)}{G_0(\boldsymbol{r}^+,\boldsymbol{r}^-)}
-\newcommand{G_0(\boldsymbol{r}^-,\boldsymbol{r}^+)}{G_0(\boldsymbol{r}^-,\boldsymbol{r}^+)}
-\newcommand{G_0(\boldsymbol{r}^-,\boldsymbol{r}^-)}{G_0(\boldsymbol{r}^-,\boldsymbol{r}^-)}
-
-\newcommand{\mathbf{E_{sc}(r)}}{\mathbf{E_{sc}(r)}}
-\newcommand{\mathbf{E_{i}(r)}}{\mathbf{E_{i}(r)}}
-\newcommand{\mathbf{G(r, r')}}{\mathbf{G(r, r')}}
-\newcommand{G_0(\boldsymbol{r},\boldsymbol{r}')}{G_0(\boldsymbol{r},\boldsymbol{r}')}
-\newcommand{\boldsymbol{\psi_n}(r')}}{\mathbf{\boldsymbol{\psi_n}(r')}}
-\newcommand{\mathbf{\boldsymbol{\psi_m}(r)}}{\mathbf{\boldsymbol{\psi_m}(r)}}
-\newcommand{\boldsymbol{\Phi_{mn}^{++}}}{\boldsymbol{\Phi_{mn}^{++}}}
-\newcommand{\boldsymbol{\Phi_{mn}^{+-}}}{\boldsymbol{\Phi_{mn}^{+-}}}
-\newcommand{\boldsymbol{\Phi_{mn}^{-+}}}{\boldsymbol{\Phi_{mn}^{-+}}}
-\newcommand{\boldsymbol{\Phi_{mn}^{--}}}{\boldsymbol{\Phi_{mn}^{--}}}
-\newcommand{\mathbf{dr'}\mathbf{dr}}{\mathbf{dr'}\mathbf{dr}}
-\newcommand{\mathbf{\hat{a}_m^+}}{\mathbf{\hat{a}_m^+}}
-\newcommand{\mathbf{\hat{a}_m^+}p}{\mathbf{\hat{a}^+}}
-\newcommand{\mathbf{\hat{a}_n^+}}{\mathbf{\hat{a}_n^+}}
-\newcommand{\mathbf{\hat{a}^-}}{\mathbf{\hat{a}^-}}
--->
-Testing
-
 # Introduction: What is Method of Moments?
 
 The Method of Moments is a technique used to solve Maxwell's Equations in the frequency domain. In the MoM, electromagnetic sources are the quantities of interest, and as such MoM is extremely useful for solving radiation and scattering problems. The Method of Moments converts an integral equation relating the known electric field incident onto a conducting object in terms of unknown source currents induced on the conducting object into a linear system which can be solved numerically. MoM excels at solving problems involving systems made of metal or PEC (Perfect Electric Conductor, $$\sigma = \infty$$
