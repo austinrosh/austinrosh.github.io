@@ -3,7 +3,7 @@ title: Method of Moments Antenna Simulator
 date: 2020-03-28 00:00:00 -10
 categories: []
 tags: []
-img_path: /assets/project-img/2020-03-28-MoM-antenna/
+img_path: /assets/project-img/2020-03-28-Mom-antenna/
 toc: true
 comments: false
 math: true
