@@ -65,7 +65,7 @@ _Minor in Mathematics_
 
 ## Skills
 - **Programming Languages** 
-    + MATLAB, Python, C, Bash
+    + MATLAB, Python, C, SCPI, Bash
 - **Equipment** 
     + Vector Network Analyzer, Spectrum Analyzer, CMW500, CMP200, Spirent GSS7000 GNSS Simulator, Micropross Contactless NFC Test Station, Vector Signal Generator, Noise Figure Analyzer, Arbitrary Waveform Generator, Frequency Response Analyzer, Oscilloscope, Anechoic Chamber
 - **Design Software** 
