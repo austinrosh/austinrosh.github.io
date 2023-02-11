@@ -80,32 +80,9 @@ Kurt Schab, _Austin Rothschild_, Kristi Nguyen, Miloslav Capek, Lukas Jelinek, a
 
 ## Conference Talks
 ### EuCAP 2021
-_Optimal Absorption and Scattering in Embedded Design Problems_: [Video](https://youtu.be/CU1PPbwMWqc)
+_Optimal Absorption and Scattering in Embedded Design Problems._
+{% include embed/youtube.html id='CU1PPbwMWqc' %}
 
-
-<!---
-
-## Experience
--Tesla, **RF Engineer**, Jan 2022 - Present
--Tesla, **RF Engineer Intern**, Jan 2021 - Sept 2021
--**Cobham Advanced Electronic Solutions**, RF Engineer Intern, June 2020 - Oct 2020
-
-## Education
--**Santa Clara University**
-
-## Skills
-
-### Programming
-
-### Design Software
-
-### Equipment
-
-## Research
-
-### Publications
-
-### Conference Talks
-
+<!---[Video](https://youtu.be/CU1PPbwMWqc
 -->
 

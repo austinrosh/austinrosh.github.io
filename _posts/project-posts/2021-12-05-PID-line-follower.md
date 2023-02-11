@@ -23,7 +23,7 @@ A classic undergraduate project one may build in an embedded systems, mechatroni
 
 ### PID Tuning
 
-[Video](https://youtube.com/shorts/AFce0tXYSrY)
+{% include embed/youtube.html id='AFce0tXYSrY' %}
 
 # Obstacle Course
 
@@ -33,8 +33,7 @@ A classic undergraduate project one may build in an embedded systems, mechatroni
 
 ## Demo
 
-
-[Video](https://youtube.com/shorts/SOCrXqQRcyQ)
+{% include embed/youtube.html id='SOCrXqQRcyQ' %}
 
 
 
