@@ -257,7 +257,7 @@ _Enlarged ~ input impedance of the antenna vs. frequency_
 
 We can see that for this half-wave dipole with 81 nodes, resonance occurs around $$2.56$$ GHz, with a radiation resistance of $$Z_{in}  = 73.6215 \Omega$$, which is what we expect. Since the radius of the wire is not infinitesimally thin, the resonance value does not occur at the exact design frequency. Additionally, the number of basis functions affects convergence, which will be studied next. 
 
-## Convergence to analytic radiation resistance and dependence on meshing parameters
+## Convergence to Analytic Radiation Resistance and Dependence on Meshing Parameters
 The number of nodes affects how many intervals Maxwell's equations will be solved over. Theoretically speaking, the smaller the interval the more accurate we expect the results to be. This section explores the convergence to the true $R_r$ value of $73 \Omega$ vs. the number of basis functions employed on the mesh. The following graph depicts this process
 
 
