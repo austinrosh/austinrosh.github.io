@@ -22,7 +22,7 @@ The idea of wireless power transfer (WPT) has existed since the rise of modern e
 
 Fortunately, WPT and radio-frequency energy harvesting (RFEH) are now seen as promising future technology due to recent advances in CMOS technology and the ability to utilize low-input powers in small form-factor devices. The exponential increase in electrical computing efficiency is known as [__Koomey's Law__], which states that the number of computations per Joule of energy dissipated doubles about every 1.57 years [^koomey]. This trend is visualized in Fig. 2 over the time period of 1940 to 2010.
 
-![koomeys law](koomeys_law.png){: width="500" height="4000" :label }
+![koomeys law](koomeys_law_.png){: width="500" height="4000" :label }
 _**Figure 2** - Number of computations per micro-Joules averaged over an hour. A micro-Joule is the sum of 1-$$\mu$$W power during 1s, or 100 nW during 10s. [^koomey]_
 
 
@@ -81,7 +81,7 @@ _Current efforts either_:
 1. Omit validation of their system via integration with a practical application
 2. Lack an accurate sense of how a rectenna-sensor network would fare in realistic conditions 
 
-![wpt rectenna](wpt-rectenna.png){: width="350" height="400" :label }
+![wpt rectenna](wpt-rectenna_.png){: width="350" height="400" :label }
 _**Figure 5** - Rectenna integrated with temperature system operating at 915 MHz [^wptalgos]._
 
 With current research in mind, our project aims to create a rectenna system that operates at $$2.45$$~GHz as an effort towards developing feasible power sources for IoT sensors. Our project will further advancement by not only designing the rectenna system, but also proving it can power commercial, low-power integrated circuits and IoT sensors in a realistic environment. Note that due to technical challenges and time constraints, many simulations and tests are done at the frequency $2.1$ GHz (see Section _Design Changes_ later in the post).
