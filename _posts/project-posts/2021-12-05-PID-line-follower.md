@@ -141,6 +141,7 @@ void PID_follow() {
 ```
 
 ### PID Tuning
+PID tuning is the process of adjusting the PID parameters ($$K_p$$, $$K_i$$, $$K_d$$) until a desired control system performance is met. The process of adjusting these involves changing the parameters until the system provides an optimal response to different inputs and disturbances. This process can be done manually, as is done in this project, or automatically using software tools that analyze the system's response and adjusts the parameters accordingly. The methodology of the tuning depends on the complexity of the system, resource availability, and the desired level of precision and control. In this case, the $$K_p$$ and $$K_d$$ are simply adjusted until the line following system is able to operate with fine precision, speed, and maintain stability. Below shows an example course used to calibrate the PID control to gurantee optimal line following performance on the obstacle course. 
 
 {% include embed/youtube.html id='AFce0tXYSrY' %}
 
