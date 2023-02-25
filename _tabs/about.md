@@ -51,7 +51,7 @@ _Minor in Mathematics_
 ## Research Experience
 ### Santa Clara University, Applied Electromagnetics Lab
 **Undergraduate Researcher** | _Santa Clara, CA_ | Dec 2019 - Aug 2021<br/>
-- Helped formulate fundamental limits on optical performance parameters nanophotonic structures of specific material and geometry constraints. Co-author [_Trade-offs in absorption and scattering by nanophotonic structures_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-24-36584&id=442737).
+- Helped formulate fundamental limits on optical performance parameters of nanophotonic structures with specific material and geometry constraints. Co-author [_Trade-offs in absorption and scattering by nanophotonic structures_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-24-36584&id=442737).
 - Developed MATLAB program for analyzing trade-offs between scattering/absorption cross-sections using convex optimization to find optimal surface current distributions derived from Method of Moments simulations.
 - Research funded by [Kuehler Undergraduate Research Award](https://www.scu.edu/engineering/labs--research/research/kuehler-undergraduate-research/).
 
