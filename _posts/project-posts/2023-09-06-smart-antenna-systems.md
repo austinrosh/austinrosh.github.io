@@ -38,11 +38,10 @@ Smart antennas esentially are an extension of sectoring in which a cell's covera
 ![Switched and Adaptive](switched_vs_adaptive.png){: width="450" height="4000" }
 _**Figure 3** - Switched-beam and adaptive array schemes [^balanis]._
 
-
 ### Adaptive Antenna Arrays
 Adaptive antenna arrays are superior in performance to switched beam systems, however their design and implementation is much more complex. That being said, the increases in capacity, range, and SINR to neighboring cells maks it worth the extra development. Since adaptive antenna arrays control the radiation pattern specific to a given coverage area, they provide a much greater capacity improvement over switched beam architectures. Additionally, adaptive arrays improve wiresless system and adjacent frequency coexistence by the use of dynamic pattern nulls placed on interfering signals.
 
-Fig. 4 below provides a simplified block diagram of an adaptive array system consisting of $M$ antenna paths and a central DSP unit which is controlling the weights $w_{\text{M}}$ (amplitudes/phases) as a function of the computed DOA extracted from the baseband signal information sampled and sent by the analog-to-digital converter (A/D). The system 
+Fig. 4 below provides a simplified block diagram of an adaptive array system consisting of $M$ antenna paths and a central DSP unit which is controlling the weights $w_{\text{M}}$ (amplitudes/phases) as a function of the computed DOA extracted from the baseband signal information sampled and sent by the analog-to-digital converter (A/D). 
 
 ![Adaptive Array](adaptive_array_simple.png){: width="450" height="4000" }
 _**Figure 4** - Switched-beam and adaptive array schemes [^balanis]._
@@ -56,6 +55,7 @@ Multipath arises natrually due to signal reflections in the path between transmi
 _**Figure 5** - Time-domain representation of a multipath signal having a time-delay (phase shift) relative to a line-of-sight signal component [^balanis]._
 
 Deep fading - the cancellation of a primary signal by an $180^{\circ}$ phase shifted multipath replica - is shown in Fig. 6. There are different types of fading, and a channel's fade profile is rapidly changing as a function of time and 3D space.
+
 ![Deep Fade](multipath_waveform.png){: width="450" height="4000" }
 _**Figure 6** - Received signal amplitude vs. time as a result of fading due to channel effects [^balanis]._
 
@@ -81,7 +81,7 @@ $$
 and can be represented by the following geometry in Fig. 8 below.
 
 ![Antenna Array](planar_array.png){: width="450" height="4000" }
-_**Figure 7** - Geometry of a planar array having arbitrary antenna elements with even spacing [^balanis]._
+_**Figure 8** - Geometry of a planar array having arbitrary antenna elements with even spacing [^balanis]._
 
 
 
@@ -151,7 +151,7 @@ MIMO allows for _spatial multiplexing_ which is the decomposition of a single hi
 A mobile ad-hoc network (MANET) is a collection of nodes that are wirelessly connected to form an extended communicaton link. This topology is able to rapidly change, and does not require a central control network to monitor connections in the mesh. This in contrast to cellular networks where a base station (eNodeB) has some centralized radio network controller (RNC) which has complete jurisdiction over a cellular network's communication capabilities, access, and much more. Cellular networks also provide only _single hop_ connectivity, whereas MANETs provide _multi hop_ connectivity, whereby communication between Node A and Node B can be passed along by other members of the MANET even though the packets are not destined for them. This is illustrated in Fig. 8 below:
 
 ![MANET](MANET.png){: width="450" height="4000" }
-_**Figure 8** - A multihop manet. Communication between nodes A & B can be hopped by interconnecting nodes to extend communication range [^balanis]._
+_**Figure 9** - A multihop manet. Communication between nodes A & B can be hopped by interconnecting nodes to extend communication range [^balanis]._
 
 MANETs which pass information to interconnecting nodes are known as _peer-to-peer_ networks and must operate according a certain set of rules (per each layer of the communication protocol) which spells out how information is to be organized, transmitted, and routed. Additionally, a communication medium in a peer-to-peer network is shared amongst frequency, space, and time. This leads to the need for _multiple access_ techniques to allow multiple users to efficiently access the communication medium in a seamless manner. The different types of multiple access include
 - Time Division Multiple Access (TDMA)
@@ -164,7 +164,7 @@ MANETs which pass information to interconnecting nodes are known as _peer-to-pee
 Smart antennas allow for dynamic control of radiation patterns towards desired users while also providing suppression against unwanted interferers. This improves link robustness (capacity, throughput) and also allows a MANET topology to be dynamic as the antenna patterns themselves are reconfigurable. MANETs use modern communication system techniques such as smart antenna systems to improve network spectral efficiency and throughput. They allow multiple users to communicate with each other at a given time due to the SDMA of separate antenna beams. An omnidirectional network would cause packet collisions amongst neighbors and greatly reduce network throughput by forcing users to wait extra long until their allocated timeslot is collision free from other users (TDMA). This is shown in Fig. 9.
 
 ![MANET](MANET_tput.png){: width="450" height="4000" }
-_**Figure 9** - MANET capacity comparison with one network having omnidirectional radiators and the other having a smart antenna system [^balanis]._
+_**Figure 10** - MANET capacity comparison with one network having omnidirectional radiators and the other having a smart antenna system [^balanis]._
 
 ### MANET Protocols
 As previously mentioned, MANETs utilize agreed upon protocols which spell out how a communication medium is access, how communication takes place, how errors are handles, and how data is routed. There are multiple layers in an OSI (Open Systems Interconnection) model, but the lowest 2 layers are what govern the way a specific system transmits/receives information, how it is encoded, how multiple users are dealt with, and more. The upper layers (3-7) are abstractions for data routing/transport that allows high level entities (Application Layer) to access the internet or some other entity which allows generalized communication query/responses between clients and servers. For the purpose of smart antenna discussion, the two relevant layers are the PHY (Physical Layer) and the MAC (Medium Access Control). An example of a widespread MAC protocol used in MANETs is that of IEEE 802.11 - the IEEE standard for WLAN/WiFi systems.

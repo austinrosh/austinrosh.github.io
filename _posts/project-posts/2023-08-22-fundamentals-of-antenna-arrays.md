@@ -9,7 +9,6 @@ comments: false
 math: true
 ---
 
----
 # Antenna Array Background
 
 ## Overview
@@ -47,7 +46,7 @@ The simplest way to understand the antenna array principle is to consider the ca
 Consider the antenna under investigation to be an array of two infinitesimal horizontal dipoles as shown in the Fig. 1 below:
 
 ![2 Eleement](two_element_array.png){: width="450" height="4000" }
-_**Figure 1** - A 2-element dipole antenna array._
+_**Figure 1** - A 2-element dipole antenna array [^balanis]._
 
 Assuming no coupling between the two antenna elements, the total fied is given by:
 
@@ -97,7 +96,7 @@ The analysis of N-element arrays is similar to that of the simple 2-element case
 Consider Fig. 2 below where all antenna elements have te same amplitude and each successive element has a $\beta$ degree current phase lead relative to the other elements in the array. 
 
 ![N Eleement](n_element_array.png){: width="450" height="4000" }
-_**Figure 2** - An N-element uniform antenna array._
+_**Figure 2** - An N-element uniform antenna array [^balanis]._
 
 This is known as a __uniform array__. The array factor is obtained by analyzing the structure as a collection of point sources. Note that even if the actual elements are not isotropic sources, the total field can be resolved by multiplying the AF of the isotropic sources by the field of a single elements of the array. This is the pattern multiplication principle for uniform arrays, and the AF is given by:
 
@@ -147,7 +146,7 @@ m & =0,1,2, \ldots
 $$
 
 ### Broadside Arrays
-Broadside arrays are defined as those with a maximum radiation directed normal to the axis of the array. For a broadside array, it is desired o have the direction of maximum radiation directed towards $\theta_0 = 90^{\circ}$. This means that th maximum of the array factor occurs when
+Broadside arrays are defined as those with a maximum radiation directed normal to the axis of the array. For a broadside array, it is desired to have the direction of maximum radiation directed towards $\theta_0 = 90^{\circ}$. This means that th maximum of the array factor occurs when
 
 $$
 \psi = kdcos\theta + \beta|_{\theta=90^{\circ}} = \beta = 0 \tag{7}
@@ -158,7 +157,7 @@ From Eq. 7 it is observed that to have the maximum of the AF for a uniform linea
 An example of a broadside pattern and a broadside pattern with additional grating lobes is shown in Fig. 3 below:
 
 ![Broadside Pattern](broadside_radiation_pattern.png){: width="450" height="4000" }
-_**Figure 3** - 3D radiation pattern plot for a broadside and broadside with endfire grating lobes._
+_**Figure 3** - 3D radiation pattern plot for a broadside and broadside with endfire grating lobes [^balanis]._
 
 ### Endfire Arrays
 Endfire arrays are similar to broadside arrays, however the desired direction of maximum radiation in the endfire case is along the direction of the array itself $\theta_0 = 0^{\circ}$ or $\theta_0 = 180^{\circ}$.
@@ -181,7 +180,7 @@ Note that for end-fire arrays, in order to avoid grating lobes the condition for
 An example amplitude radiation pattern for both $0^{\circ}$ and $180^{\circ}$ is shown below.
 
 ![Endfire Pattern](endfire_radiation_pattern.png){: width="450" height="4000" }
-_**Figure 4** - 3D radiation pattern plot for endfire arrays directed towards $0^{\circ}$ and $180^{\circ}$. ($N=10$, $d=\lambda/4$)._
+_**Figure 4** - 3D radiation pattern plot for endfire arrays directed towards $0^{\circ}$ and $180^{\circ}$. ($N=10$, $d=\lambda/4$) [^balanis]._
 
 ## Scanning & Pattern Control Principles
 In antenna array systems, the method for controlling the beam direction is based upon manipulation of the phase excitation delta between the elements of the antenna array. Additionally, the sidelobe level and beam shape can be controlled by manipulation of the amplitude distribution. This is done by _weighting_ the signals impigning on each antenna element. There are many weighting schemes that can be used depending on the design objectives. A weight is simply a multiplication factor applied to the signals on each antenna element.
@@ -208,7 +207,7 @@ The planar array involves the placement of indiviual array elements along a grid
 For a planar array with M elements placed along the x-axis (see Fig. 5), the array factory can be written as
 
 ![Planar Array Line](planar_array_line.png){: width="450" height="4000" }
-_**Figure 5** - Linear array geometry with elements oriented along the $x$-axis._
+_**Figure 5** - Linear array geometry with elements oriented along the $x$-axis [^balanis]._
 
 
 $$
@@ -218,7 +217,7 @@ $$
 with $I_{m1}$ the excitation coefficient for each element in the array, $d_x$ is the element spacing, and $\beta_x$ the phase shift between the elements. Placing $N$ of these arrays next to each other in the $y$-direction a distance $d_y$ apart with phase shift $\beta_y$ forms a rectaungluar array as shown below in Fig. 6.
 
 ![Planar Array Grid](planar_array_grid.png){: width="450" height="4000" }
-_**Figure 6** - Planar array geometry._
+_**Figure 6** - Planar array geometry [^balanis]._
 
 The array factor of the entire planar array is written as:
 
@@ -260,7 +259,7 @@ Of the three typs, unform distributions offer the smallest half-power beamwidth 
 For analysis purposes, only a linear 1D array with an even $2M$ elements will be considered (see Fig. 7). 
 
 ![Nonuniform Array](nonuniform_array.png){: width="450" height="4000" }
-_**Figure 7** - Nonuniform linear array with an even amount of elements._
+_**Figure 7** - Nonuniform linear array with an even amount of elements [^balanis]._
 
 The AF can be written as
 
