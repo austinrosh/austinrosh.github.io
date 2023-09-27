@@ -43,7 +43,7 @@ Adaptive antenna arrays are superior in performance to switched beam systems, ho
 
 Fig. 4 below provides a simplified block diagram of an adaptive array system consisting of $M$ antenna paths and a central DSP unit which is controlling the weights $w_{\text{M}}$ (amplitudes/phases) as a function of the computed DOA extracted from the baseband signal information sampled and sent by the analog-to-digital converter (A/D). 
 
-![Adaptive Array](adaptive_array_simple.png){: width="450" height="4000" }
+![Adaptive Array](adaptive_arrray_simple.png){: width="450" height="4000" }
 _**Figure 4** - Switched-beam and adaptive array schemes [^balanis]._
 
 ### Signal Propogation Effects
