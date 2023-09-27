@@ -9,7 +9,7 @@ comments: false
 math: true
 ---
 
-A classic undergraduate project one may build in an embedded systems, mechatronics, or robotics course is a line following robot based on PID control. This ties together a lot of key ideas in mechanical, electrical, and computer engineering and is a good exercise in cross-functional design that one encounters in industry. Here I describe the theory and design of such a line following robot I built for my undergraduate mechatronics final project. This project is implemented using an Arduino based around _PID_ (Proportional Integral Derivative) control system. The robot is designed to complete a determinisitic (and star wars themed!) obstacle course, as will be described. 
+A classic undergraduate project one may build in an embedded systems, mechatronics, or robotics course is a line following robot based on PID control. This ties together a lot of key ideas in mechanical, electrical, and computer engineering and is a good exercise in cross-functional design that one encounters in industry. Here I describe the theory and design of such a line following robot I built for my undergraduate mechatronics final project. This project is implemented using an Arduino based around _PID_ (Proportional Integral Derivative) control system. The robot is designed to complete a determinisitic (and star wars themed!) obstacle course, as will soon be described. 
 
 _Skip to the very end section **Demo** to see the robot in action!_
 

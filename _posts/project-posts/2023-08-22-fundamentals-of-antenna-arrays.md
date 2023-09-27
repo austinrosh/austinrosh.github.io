@@ -154,7 +154,7 @@ $$
 
 From Eq. 7 it is observed that to have the maximum of the AF for a uniform linear array with radiation maximized towards broadside that all elements in the ULA should have the same phase and amplitude excitation. The spacing between the elements can take on any value, however, to ensure that there are no grating lobes (undesired maxima in the radiation pattern) the separaton should not equal multiples of a wavelengths ($d \neq n\lambda$, $n = 1, 2, 3,... $). It can be seen that for a broadside ULA when $\beta=0$, if $d = n\lambda$ then $\psi=kdcos\theta+\beta=2\pi n cos\theta = \pm 2n\pi$. This causes the radiation pattern to have a maximum in the end-fire direction in addition to broadside. Thus, to avoid this condition the maximum spacing of the antenna elements should always be $d_{\text{max}} < \lambda $.
 
-An example of a broadside pattern and a broadside pattern with additional grating lobes is shown in Fig. 3 below:
+An example of a standard broadside pattern and a broadside pattern with additional grating lobes is shown in Fig. 3 below:
 
 ![Broadside Pattern](broadside_radiation_pattern.png){: width="450" height="4000" }
 _**Figure 3** - 3D radiation pattern plot for a broadside and broadside with endfire grating lobes [^balanis]._

@@ -10,7 +10,7 @@ math: true
 ---
 
 
-For my final year undergraduate project, I worked in a team on an ISM band RF energy harvesting system for powering (very) low energy loads. Despite this project happening during the peak of the COVID-19 pandemic, my partner and I were able to successfully develop and test hardware to prove this concept out in the lab! This post will give an overview and background of RF energy harvesting, describe the problem that RF energy harvesting hopes to solve, present detailed design and test results, and give a roadmap of potential future applications.
+For my final year undergraduate project, I worked in a team on an ISM band RF energy harvesting system for powering (very) low energy loads. Despite this project happening during the peak of the COVID-19 pandemic, my partner and I were able to successfully develop and test hardware to prove this concept out in the lab! This post will give an overview and background to RF energy harvesting, describe the problem that RF energy harvesting hopes to solve, present detailed design and test results, and give a roadmap of potential future applications.
 
 <!--- If you are interested in the full project report, it can be found on the Santa Clara University Scholar Commons [here](https://scholarcommons.scu.edu/elec_senior/62/). --->
 
