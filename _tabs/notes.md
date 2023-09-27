@@ -10,13 +10,34 @@ A collection of notes, both technical and non-technical in nature.
 
 # A Running List of RF System Design Formulas
 
-# The Case for Multi-Band GNSS 
+# GNSS Part 1:
 
-# Introduction to UWB: Part 1 - Overview
+# Antenna theory notes: background and fundamentals of radiation.
 
-# Introduction to UWB: Part 2 - Positioning Methods
+# Antenna Theory Notes: Antenna pattern, directivity, and gain
 
-# Introduction to UWB: Part 3 - Antennas
+# Antenna Theory Notes: Microstrip Patch Antennas
+
+# Antenna Theory Notes: Broadband Antennas
+
+# Antenna Theory Notes: Aperture Antennas
+
+# Antenna Theory Notes: Traveling Wave Antennas
+
+# Antenna Theory Notes: Antenna Array Background
+
+# Antenna Theory Notes: Antenna Array Theory
+
+# Antenna Theory Notes: Linear Antenna Arrays, Phased Arrays, & Planar Arrays
+
+# Antenna Theory Notes: Antenna Array Synthesis
+
+
+
+
+
+
+
 
 A collection of notes, both technical and non-technical in nature.
 -->
