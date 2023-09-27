@@ -56,7 +56,7 @@ _**Figure 5** - Time-domain representation of a multipath signal having a time-d
 
 Deep fading - the cancellation of a primary signal by an $180^{\circ}$ phase shifted multipath replica - is shown in Fig. 6. There are different types of fading, and a channel's fade profile is rapidly changing as a function of time and 3D space.
 
-![Deep Fade](multipath_waveform.png){: width="450" height="4000" }
+![Deep Fade](signal_fade.png){: width="450" height="4000" }
 _**Figure 6** - Received signal amplitude vs. time as a result of fading due to channel effects [^balanis]._
 
 Adaptive arrays can mitigate the problem of fading by using DSP mechanisms to help null multpath directions. 
