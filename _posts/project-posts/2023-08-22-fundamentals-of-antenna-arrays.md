@@ -66,9 +66,12 @@ r_1 \simeq r_2 \simeq r
 $$
 
 Applying the FF approximation, Eq. (1) reduces to 
+
 $$
 \begin{array}{l}
-\mathbf{E}_t=\hat{\mathbf{a}}_\theta j \eta \frac{k I_0 l e^{-j k r}}{4 \pi r} \cos \theta\left[e^{+j(k d \cos \theta+\beta) / 2}+e^{-j(k d \cos \theta+\beta) / 2}\right] \\
+\mathbf{E}_t=\hat{\mathbf{a}}_\theta j \eta \frac{k I_0 l e^{-j k r}}{4 \pi r} \cos \theta\left[e^{+j(k d \cos \theta+\beta) / 2}+e^{-j(k d \cos \theta+\beta) / 2}\right] 
+
+\\
 
 \mathbf{E}_t=\hat{\mathbf{a}}_{\theta j} j \eta \frac{k I_0 l e^{-j k r}}{4 \pi r} \cos \theta\left\{2 \cos \left[\frac{1}{2}(k d \cos \theta+\beta)\right]\right\} \tag{3}
 \end{array}
