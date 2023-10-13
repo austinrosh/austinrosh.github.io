@@ -7,7 +7,6 @@ img_path: /assets/project-img/2020-03-28-MoM-Antenna-backup/
 toc: true
 comments: false
 math: true
-hidden: true
 ---
 
 # Introduction: What is Method of Moments?
