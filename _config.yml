@@ -76,7 +76,7 @@ theme_mode: # [dark|light] #dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/mugshot.jpg
+avatar: assets/img/mugshot2.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
