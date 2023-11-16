@@ -81,9 +81,10 @@ Kurt Schab, _Austin Rothschild_, Kristi Nguyen, Miloslav Capek, Lukas Jelinek, a
 ## Conference Talks
 ### EuCAP 2021
 K. Schab, A. Rothschild, M. Capek, L. Jelinek, and M. Gustafsson, “Optimal absorption and scattering in embedded design problems,” European Conference on Antennas and Propagation, Düsseldorf, Germany, Mar. 2021.
+
 <!---
 {% include embed/youtube.html id='CU1PPbwMWqc' %}
--->
-<!---[Video](https://youtu.be/CU1PPbwMWqc
+
+# [Video](https://youtu.be/CU1PPbwMWqc
 -->
 
