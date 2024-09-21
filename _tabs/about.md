@@ -10,15 +10,19 @@ header-includes: |
 ---
 
 
-Hey, I'm Austin! I'm an RF engineer interested in all things wireless, high-speed, and antenna related. Currently I work at Tesla in Palo Alto where I have been since graduating from Santa Clara University with a B.S. in electrical engineering. 
+Current MS EE student at Stanford with a focus in signal processing, communications, and machine learning. I'm interested in next generation wireless systems ranging from novel wireless architectures, applications of ML/DL to communications, and new spectrum utilization. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating high speed RF PCBs to support connectivity and localization systems.
 
 If you have any questions about anything on this site or just want to reach out, please don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/austin-rothschild-5487747b/) or [email](mailto:aurothschild@gmail.com)!
 
 ---
 
 ## Education
+
+### Stanford University
+**M.S. Electrical Engineering** | Sept 2024 - present <br/>
+
 ### Santa Clara University
-**B.S. Electrical Engineering** | Sept 2017- Dec 2021 <br/>
+**B.S. Electrical Engineering** | Sept 2017 - Dec 2021 <br/>
 _Minor in Mathematics_
 - Tau Beta Pi
 - Magna Cum Laude
@@ -27,7 +31,7 @@ _Minor in Mathematics_
 
 ## Professional Experience
 ### Tesla, Inc
-**RF Engineer** | _Palo Alto, CA_ | Jan 2022 - Present<br/>
+**Sr. RF Engineer** | _Palo Alto, CA_ | Jan 2022 - July 2024 <br/>
 - Hardware design, validation, debug, and integration for telematics control unit, passive entry, and autopilot GNSS system across all Tesla vehicles and Optimus humanoid robot.
 
 ### Tesla, Inc
