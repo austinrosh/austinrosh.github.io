@@ -10,9 +10,9 @@ header-includes: |
 ---
 
 
-Current MS EE student at Stanford with a focus in signal processing, communications, and machine learning. I'm interested in next generation wireless systems ranging from novel wireless architectures, applications of ML/DL to communications, and new spectrum utilization. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating high speed RF PCBs to support connectivity and localization systems.
+Current MS EE student at Stanford with a focus in communication systems and circuits. I'm interested in next generation wireless systems ranging from novel wireless hardware architectures, joint communication and sensing, and ultra-low power designs. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating high speed RF PCBs to support connectivity and localization systems.
 
-If you have any questions about anything on this site or just want to reach out, please don't hesitate to get in touch via [LinkedIn](https://www.linkedin.com/in/austin-rothschild-5487747b/) or [email](mailto:aurothschild@gmail.com)!
+If you have any questions about anything on this site or just want to reach out, please don't hesitate to get in touch via [LinkedIn](www.linkedin.com/in/austinrosh) or [email](mailto:austinxr@stanford.edu)!
 
 ---
 
@@ -32,7 +32,7 @@ _Minor in Mathematics_
 ## Professional Experience
 ### Tesla, Inc
 **Sr. RF Engineer** | _Palo Alto, CA_ | Jan 2022 - July 2024 <br/>
-- Hardware design, validation, debug, and integration for telematics control unit, passive entry, and autopilot GNSS system across all Tesla vehicles and Optimus humanoid robot.
+- Hardware design, validation, debug, and integration for telematics control unit, passive entry, and autopilot GNSS systlsem across all Tesla vehicles and Optimus humanoid robot.
 
 ### Tesla, Inc
 **RF Engineering Intern** | _Palo Alto, CA_ | Jan 2021 - Sept 2021<br/>
