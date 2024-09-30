@@ -10,7 +10,7 @@ header-includes: |
 ---
 
 
-Current MS EE student at Stanford with a focus in communication systems and circuits. I'm interested in next generation wireless systems ranging from novel wireless hardware architectures, joint communication and sensing, and ultra-low power designs. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating high speed RF PCBs to support connectivity and localization systems.
+Current MS EE student at Stanford with a focus in communication systems and circuits. Interested in end-to-end wireless system design, ASICs, high speed mixed-signal, and the DSP algorithms running on such platforms. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating high speed RF PCBs to support connectivity and localization systems.
 
 If you have any questions about anything on this site or just want to reach out, please don't hesitate to get in touch via [LinkedIn](www.linkedin.com/in/austinrosh) or [email](mailto:austinxr@stanford.edu)!
 
