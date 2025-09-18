@@ -30,6 +30,11 @@ _Minor in Mathematics_
 ---
 
 ## Professional Experience
+
+### Apple
+**RF Design Intern** | _Sunnyvale, CA_ | June 2025 - Sept 2025 <br/>
+- RF design for vision and wearable products.
+
 ### Tesla, Inc
 **Sr. RF Engineer** | _Palo Alto, CA_ | Jan 2022 - June 2024 <br/>
 - Hardware design, validation, and integration for telematics control unit, passive entry, and autopilot GNSS systems across all Tesla vehicles and Optimus humanoid robot.
