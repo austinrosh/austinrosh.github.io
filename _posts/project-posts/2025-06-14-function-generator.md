@@ -8,5 +8,5 @@ toc: true
 comments: false
 math: true
 ---
-<object data="/assets/project-img/2025-06-14-function-generator/ee308_project.pdf" width="750" height="750" type='application/pdf'></object>
+<object data="/assets/project-img/2025-06-14-function-generator/ee308_project_report.pdf" width="750" height="750" type='application/pdf'></object>
 
