@@ -31,7 +31,7 @@ _Minor in Mathematics_
 
 ## Professional Experience
 ### Tesla, Inc
-**Sr. RF Engineer** | _Palo Alto, CA_ | Jan 2022 - July 2024 <br/>
+**Sr. RF Engineer** | _Palo Alto, CA_ | Jan 2022 - June 2024 <br/>
 - Hardware design, validation, and integration for telematics control unit, passive entry, and autopilot GNSS systems across all Tesla vehicles and Optimus humanoid robot.
 
 ### Tesla, Inc

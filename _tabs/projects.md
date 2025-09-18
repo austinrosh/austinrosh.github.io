@@ -4,6 +4,22 @@ icon: fas fa-hammer
 order: 2
 ---
 
+
+## [Discrete Analog Function Generator]({% post_url /project-posts/2025-06-14-function-generator %})
+![Block Diagram](/assets/project-img/2025-06-14-function-generator/function-generator.png){: width="550" height="500" }
+
+## [45nm CMOS TRX RF Front End Module]({% post_url /project-posts/2025-06-14-FEM-45nm %})
+![Block Diagram](/assets/project-img/2025-06-14-FEM-45nm/PA-summary.png){: width="550" height="500" }
+
+## [Wireline Signaling System for a 5 Tbps High Speed Router]({% post_url /project-posts/2025-06-14-wireline-signaling %})
+![Block Diagram](/assets/project-img/2025-06-14-wireline-signaling/signaling-block-digram-proto.png){: width="550" height="500" }
+
+## [Carrier, Frame, and Symbol Synchronization on Software Defined Radio]({% post_url /project-posts/2025-03-28-sync-sdr %})
+![Block Diagram](/assets/project-img/2025-03-28-sync-sdr/dd_block_diagram.png){: width="550" height="500" }
+
+## [Theory and Implementation of LDPC Codes for Wireless Communication]({% post_url /project-posts/2025-03-28-ldpc-codes %})
+![Block Diagram](/assets/project-img/2025-03-28-ldpc-codes/ber_comparisons_ldpc_conv_turbo.png){: width="550" height="500" }
+
 ## [2.4 GHz RF Energy Harvester]({% post_url /project-posts/2021-06-14-rf-energy-harvester %})
 ![Block Diagram](/assets/project-img/2021-06-14-rf-energy-harvester/block9.png){: width="550" height="500" }
 
