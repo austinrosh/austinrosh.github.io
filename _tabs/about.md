@@ -60,15 +60,21 @@ _Minor in Mathematics_
 ## Research Experience
 ### Santa Clara University, Applied Electromagnetics Lab
 **Undergraduate Researcher** | _Santa Clara, CA_ | Dec 2019 - Aug 2021<br/>
-- Helped formulate fundamental limits on optical performance parameters of nanophotonic structures with specific material and geometry constraints. Co-author [_Trade-offs in absorption and scattering by nanophotonic structures_](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-24-36584&id=442737).
+- Helped formulate fundamental limits on optical performance parameters of nanophotonic structures with specific material and geometry constraints. Co-author 
+<a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-24-36584&id=442737" target="_blank" style="color:#007acc; text-decoration:none;">
+_Trade-offs in absorption and scattering by nanophotonic structures_
+</a>.
 - Developed MATLAB program for analyzing trade-offs between scattering/absorption cross-sections using convex optimization to find optimal surface current distributions derived from Method of Moments simulations.
-- Research funded by [Kuehler Undergraduate Research Award](https://www.scu.edu/engineering/labs--research/research/kuehler-undergraduate-research/).
+- Research funded by 
+<a href="https://www.scu.edu/engineering/labs--research/research/kuehler-undergraduate-research/" target="_blank" style="color:#007acc; text-decoration:none;">
+Kuehler Undergraduate Research Award
+</a>.
 
 ### Santa Clara University, Applied Mathematics Department
 **Undergraduate Researcher** | _Santa Clara, CA_ | Mar 2020 - Oct 2021<br/>
 - Developed MATLAB program to model and compute unknown material characteristics based on inverse scattering theory.
 - Help formulate novel tensor-based solution to non-linear inverse scattering potential recovery utilizing properties of the Fourier transform to enhance computation speed.
-- Research funded by [REAL Undergraduate Research Grant](https://www.scu.edu/real/).
+- Research funded by <a href="https://www.scu.edu/real/" target="_blank" style="color:#007acc; text-decoration:none;">REAL Undergraduate Research Grant</a>.
 
 ---
 
@@ -83,19 +89,23 @@ _Minor in Mathematics_
 ---
 
 ## Publications
-Kurt Schab, _Austin Rothschild_, Kristi Nguyen, Miloslav Capek, Lukas Jelinek, and Mats Gustafsson, ["Trade-offs in absorption and scattering by nanophotonic structures," Opt. Express 28, 36584-36599 (2020)](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-24-36584&id=442737)
+Kurt Schab, _Austin Rothschild_, Kristi Nguyen, Miloslav Capek, Lukas Jelinek, and Mats Gustafsson, 
+<a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-24-36584&id=442737" target="_blank" style="color:#007acc; text-decoration:none;">
+“Trade-offs in absorption and scattering by nanophotonic structures,” </a> *Optics Express*  (2020)
 
 ---
 
 ## Patents
- A.S. Konanur, A. Erentok, _A. Rothschild_, *et al.*,  "Multi-band antenna," *U.S. Patent Application* [US20240088547A1](https://patents.google.com/patent/US20240088547A1/en), filed Jan. 19, 2022, published Mar. 14, 2024, assigned to Tesla, Inc. 
+A.S. Konanur, A. Erentok, _A. Rothschild_, *et al.*, "Multi-band antenna," *U.S. Patent Application* 
+<a href="https://patents.google.com/patent/US20240088547A1/en" target="_blank" style="color:#007acc; text-decoration:none;"> 
+ US20240088547A1
+</a> filed Jan. 19, 2022, published Mar. 14, 2024, assigned to Tesla, Inc.
 
 ---
 
 ## Conference Talks
-### EuCAP 2021
-Kurt Schab, _Austin Rothschild_, Miloslav Capek, Lukas Jelinek, and Mats Gustafsson, <a href="/assets/project-img/papers/EuCAP2021_slides.pdf" target="_blank">
+Kurt Schab, _Austin Rothschild_, Miloslav Capek, Lukas Jelinek, and Mats Gustafsson, 
+<a href="/assets/project-img/papers/EuCAP2021_slides.pdf" target="_blank" style="color:#007acc; text-decoration:none;">
   “Optimal absorption and scattering in embedded design problems,”
-</a>  European Conference on Antennas and Propagation, Düsseldorf, Germany, Mar. 2021.
-
-
+</a> 
+*European Conference on Antennas and Propagation*, Düsseldorf, Germany, Mar. 2021.
