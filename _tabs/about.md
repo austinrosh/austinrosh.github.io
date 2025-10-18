@@ -10,7 +10,7 @@ header-includes: |
 ---
 
 
-Current MS EE student at Stanford with a focus in analog/RF integrated circuits and communication systems. Interested in high speed analog/mixed-signal circuits for wireless/wireline applications and the DSP algorithms running on such platforms. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating RF hardware to support connectivity and localization systems, and most recently on the RF Design team at Apple with a focus on vision products.
+Current MS EE student at Stanford with a focus in analog/RF integrated circuits and communication systems. Interested in analog and mixed-signal circuits for wireless applications — from communication systems to biomedical sensors — and in leveraging numerical techniques, computational electromagnetics, and co-simulation methods to design and optimize these systems. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating RF hardware to support connectivity and localization systems, and most recently on the RF Design team at Apple with a focus on vision products.
 
 If you have any questions about anything on this site or just want to reach out, please don't hesitate to get in touch via [LinkedIn](www.linkedin.com/in/austinrosh) or [email](mailto:austinxr@stanford.edu).
 
