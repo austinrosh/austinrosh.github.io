@@ -10,9 +10,9 @@ header-includes: |
 ---
 
 
-Current MS EE student at Stanford with a focus in communication systems and circuits. Interested in end-to-end wireless system design, high speed circuits, and the DSP algorithms running on such platforms. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating RF hardware to support connectivity and localization systems.
+Current MS EE student at Stanford with a focus in analog/RF integrated circuits and communication systems. Interested in high speed analog/mixed-signal circuits for wireless/wireline applications and the DSP algorithms running on such platforms. I previously worked at Tesla as an RF Engineer on the Wireless Team designing and integrating RF hardware to support connectivity and localization systems, and most recently on the RF Design team at Apple with a focus on vision products.
 
-If you have any questions about anything on this site or just want to reach out, please don't hesitate to get in touch via [LinkedIn](www.linkedin.com/in/austinrosh) or [email](mailto:austinxr@stanford.edu)!
+If you have any questions about anything on this site or just want to reach out, please don't hesitate to get in touch via [LinkedIn](www.linkedin.com/in/austinrosh) or [email](mailto:austinxr@stanford.edu).
 
 ---
 
@@ -74,11 +74,11 @@ _Minor in Mathematics_
 
 ## Skills
 - **Programming Languages** 
-    + MATLAB, Python, C, SCPI, Bash
+    + MATLAB, Python, C, SystemVerilog, SCPI, Bash
 - **Equipment** 
-    + Vector Network Analyzer, Spectrum Analyzer, CMW500, CMP200, Spirent GSS7000 GNSS Simulator, Micropross Contactless NFC Test Station, Vector Signal Generator, Noise Figure Analyzer, Arbitrary Waveform Generator, Frequency Response Analyzer, Oscilloscope, Anechoic Chamber
+    + Vector Network Analyzer, Spectrum Analyzer, CMW500, CMP200, Spirent GSS7000 GNSS Simulator, Micropross Contactless NFC Test Station, Vector Signal Generator, Noise Figure Analyzer, Arbitrary Waveform Generator, Frequency Response Analyzer, Oscilloscope, Anechoic Chamber, Wafer Probe Station
 - **Design Software** 
-    + Keysight ADS, Ansys HFSS, CST Simulation Suite, Optenni Lab, LTSpice, Altium, Cadence Allegro, KiCad
+    + Cadence Virtuoso, Cadence EMX, Keysight ADS, Ansys HFSS, Ansys optiSLang, CST Simulation Suite, Optenni Lab, Spectre, HSPICE, LTSpice, Altium, Cadence Allegro, KiCad
 
 ---
 
@@ -87,13 +87,15 @@ Kurt Schab, _Austin Rothschild_, Kristi Nguyen, Miloslav Capek, Lukas Jelinek, a
 
 ---
 
+## Patents
+ A.S. Konanur, A. Erentok, _A. Rothschild_, *et al.*,  "Multi-band antenna," *U.S. Patent Application* [US20240088547A1](https://patents.google.com/patent/US20240088547A1/en), filed Jan. 19, 2022, published Mar. 14, 2024, assigned to Tesla, Inc. 
+
+---
+
 ## Conference Talks
 ### EuCAP 2021
-Kurt Schab, _Austin Rothschild_, Miloslav Capek, Lukas Jelinek, and Mats Gustafsson, “Optimal absorption and scattering in embedded design problems,” European Conference on Antennas and Propagation, Düsseldorf, Germany, Mar. 2021.
+Kurt Schab, _Austin Rothschild_, Miloslav Capek, Lukas Jelinek, and Mats Gustafsson, <a href="/assets/project-img/papers/EuCAP2021_slides.pdf" target="_blank">
+  “Optimal absorption and scattering in embedded design problems,”
+</a>  European Conference on Antennas and Propagation, Düsseldorf, Germany, Mar. 2021.
 
-<!---
-{% include embed/youtube.html id='CU1PPbwMWqc' %}
-
-# [Video](https://youtu.be/CU1PPbwMWqc
--->
 
