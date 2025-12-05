@@ -4,6 +4,8 @@ icon: fas fa-hammer
 order: 2
 ---
 
+## [10-Bit Asynchronous SAR ADC]({% post_url /project-posts/2025-12-03-sar-adc %})
+![Block Diagram](/assets/project-img/2025-12-03-sar-adc/SAR_ADC_block.png){: width="550" height="500" }
 
 ## [Discrete Analog Function Generator]({% post_url /project-posts/2025-06-14-function-generator %})
 ![Block Diagram](/assets/project-img/2025-06-14-function-generator/function-generator.png){: width="550" height="500" }
