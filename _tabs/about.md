@@ -10,10 +10,13 @@ header-includes: |
 ---
 
 
-Current MS EE student at Stanford with a focus in analog/RF integrated circuits and communication systems. Interested in analog and mixed-signal circuits for wireless applications — from communication systems to biomedical sensors — and in leveraging numerical techniques, computational electromagnetics, and co-simulation methods to design and optimize these systems. I previously worked at Tesla as a Sr. RF Engineer on the Wireless Team designing and integrating RF hardware to support connectivity and localization systems, and most recently on the RF Design team at Apple with a focus on vision products.
+I am a graduate student at Stanford University focusing on analog/RF integrated circuits and computational electromagnetics. My interests broadly span analog and mixed-signal circuits for high-speed wireline and wireless systems, as well as the development of efficient numerical techniques to design and optimize these architectures.
 
-If you have any questions about anything on this site or just want to reach out, please don't hesitate to get in touch via [LinkedIn](www.linkedin.com/in/austinrosh) or [email](mailto:austinxr@stanford.edu).
+I previously worked at Tesla as a Senior RF Engineer on the Wireless Hardware team, where I designed RF hardware and antennas for connectivity and localization systems. Most recently, I was on the RF Design team at Apple, focusing on vision products and electromagnetic co-design.
 
+If you have questions about this site or would like to connect, please feel free to reach out via <a href="https://www.linkedin.com/in/austinrosh" style="text-decoration: underline;">LinkedIn</a> or <a href="mailto:austinxr@stanford.edu" style="text-decoration: underline;">email</a>.
+
+<!--
 ---
 
 ## Education
@@ -109,3 +112,4 @@ Kurt Schab, _Austin Rothschild_, Miloslav Capek, Lukas Jelinek, and Mats Gustafs
   “Optimal absorption and scattering in embedded design problems,”
 </a> 
 *European Conference on Antennas and Propagation*, Düsseldorf, Germany, Mar. 2021.
+-->
