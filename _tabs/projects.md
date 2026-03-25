@@ -4,6 +4,10 @@ icon: fas fa-hammer
 order: 2
 ---
 
+## [pyMoM3d: Open-Source 3D Method of Moments Electromagnetic Solver]({% post_url /project-posts/2026-03-19-pyMoM3d %})
+![Block Diagram](/assets/project-img/2026-03-19-pyMoM3d/pyMoM3d_cover.png){: width="550" height="500" }
+
+
 ## [10-Bit Asynchronous SAR ADC]({% post_url /project-posts/2025-12-03-sar-adc %})
 ![Block Diagram](/assets/project-img/2025-12-03-sar-adc/SAR_ADC_block.png){: width="550" height="500" }
 
@@ -28,10 +32,10 @@ order: 2
 ## [2.4 GHz RF Energy Harvester]({% post_url /project-posts/2021-06-14-rf-energy-harvester %})
 ![Block Diagram](/assets/project-img/2021-06-14-rf-energy-harvester/block9.png){: width="550" height="500" }
 
-## [Method of Moments Antenna Simulator]({% post_url /project-posts/2020-03-28-MoM-Antenna-backup %})
-![Block Diagram](/assets/project-img/2020-03-28-MoM-Antenna-backup/CodeSnippet.png){: width="550" height="500" }
+## [Method of Moments Wire Antenna Simulator]({% post_url /project-posts/2020-03-28-MoM-Antenna-backup %})
+![Block Diagram](/assets/project-img/2020-03-28-MoM-Antenna-backup/MoM_cover.png){: width="550" height="500" }
 
-## [IQ Demodulator - Passive Circuit Design]({% post_url /project-posts/2020-06-14-IQ-Demodulator %})
+## [IQ Demodulator - Discrete Passive Circuit Design]({% post_url /project-posts/2020-06-14-IQ-Demodulator %})
 ![Block Diagram](/assets/project-img/2020-06-14-IQ-Demodulator/block_diagram_.png){: width="550" height="600" }
 
 ## [PID Line Following Robot]({% post_url /project-posts/2021-12-05-PID-line-follower %})
